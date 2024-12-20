@@ -18,7 +18,6 @@ A Python desktop application that provides an intuitive graphical interface for 
   - Confusion matrix heatmaps
   - Accuracy metrics
 <img width="1512" alt="Breast Cancer- GMM" src="https://github.com/user-attachments/assets/614baeac-f237-47fd-b9e5-dea715fff963" />
-![Uploading Breast Cancer- GMM.png…]()
 
 ## Usage Guide
 
