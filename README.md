@@ -1,4 +1,4 @@
-<img width="1512" alt="Breast Cancer- GMM" src="https://github.com/user-attachments/assets/614baeac-f237-47fd-b9e5-dea715fff963" /># Classification with Cross Validation GUI
+# Classification with Cross Validation GUI
 
 A Python desktop application that provides an intuitive graphical interface for performing machine learning classification tasks with cross-validation. The application supports multiple datasets and classification algorithms, making it easy to experiment with different classification approaches and visualize the results.
 
@@ -17,7 +17,7 @@ A Python desktop application that provides an intuitive graphical interface for 
   - Parameter tuning plots
   - Confusion matrix heatmaps
   - Accuracy metrics
-
+<img width="1512" alt="Breast Cancer- GMM" src="https://github.com/user-attachments/assets/614baeac-f237-47fd-b9e5-dea715fff963" />
 ![Uploading Breast Cancer- GMM.png…]()
 
 ## Usage Guide
