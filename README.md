@@ -12,6 +12,7 @@ A Python desktop application that provides an intuitive graphical interface for 
 - **Classification Algorithms**:
   - K-Nearest Neighbors (KNN)
   - Support Vector Machine (SVM)
+  - A Gaussian mixture model (GMM)
 - **Automated Parameter Optimization** using k-fold cross-validation
 - **Rich Visualizations**:
   - Parameter tuning plots
@@ -42,6 +43,7 @@ The application follows a streamlined classification workflow:
    - Automatically selects optimal parameters:
      - K value for KNN
      - C parameter for SVM
+     - BIC score for GMM
 
 3. **Model Training**:
    - Trains final model using best parameters
@@ -50,7 +52,6 @@ The application follows a streamlined classification workflow:
 4. **Results Visualization**:
    - Real-time plotting of results
    - Interactive confusion matrix display
-
 
 ## Dependencies
 
