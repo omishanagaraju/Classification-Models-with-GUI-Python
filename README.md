@@ -12,7 +12,7 @@ A Python desktop application that provides an intuitive graphical interface for 
 - **Classification Algorithms**:
   - K-Nearest Neighbors (KNN)
   - Support Vector Machine (SVM)
-  - A Gaussian mixture model (GMM)
+  - Gaussian mixture model (GMM)
 - **Automated Parameter Optimization** using k-fold cross-validation
 - **Rich Visualizations**:
   - Parameter tuning plots
